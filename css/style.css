@@ -1,0 +1,53 @@
+.btn{
+    margin-top: 3%;
+}
+
+.cajacalculo, .card{
+    border: 1px solid #dedede;
+    Margin-top: 2%;
+    border-radius: 10px;
+}
+
+.cajacalculo{
+    padding: 2%;
+    background: #f6f6f6;
+}
+
+.card{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container, .card{
+    max-width: 540px !important;
+}
+
+.center-content, .table, .titulo {
+    text-align: center;
+}
+
+.resultado-neto{
+    margin-top: 2%;
+    color: #428bca;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.space{
+    margin-right: 15px !important;
+}
+
+.textbox
+{
+    width:35% !important;
+}
+
+.table td, .table th{
+    padding: 0 !important;
+}
+
+thead{
+    border-bottom: 1px solid rgba(0,0,0,.1);
+}
+
+
